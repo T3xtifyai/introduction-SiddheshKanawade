@@ -1,5 +1,7 @@
 <h1>Octernship Information</h1>
 
+<h3> Submission </h3>
+Hello there, I am Siddhesh Kanawade, a third year undergraduate at IIT Gandhinagar, India. You can find the response to the assignment: https://github.com/SiddheshKanawade/introduction-SiddheshKanawade/blob/main/siddheshkanawade_TextifyAI.pdf
 
 <h3>Company information</h3>
 We are building a platform for easy discovery and commercialization of AI solutions. Think of us like "AppStore for AI" but with more diverse monetization options (Memberships, Targeted ads, Review farming, etc).
