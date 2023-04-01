@@ -1,6 +1,6 @@
 <h1>Octernship Information</h1>
 
-<h3> About me </h3>
+<h3> Submission </h3>
 Hello there, I am Siddhesh Kanawade, a third year undergraduate at IIT Gandhinagar, India. You can find the response to the assignment: https://github.com/SiddheshKanawade/introduction-SiddheshKanawade/blob/main/siddheshkanawade_TextifyAI.pdf
 
 <h3>Company information</h3>
